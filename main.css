@@ -1,0 +1,22 @@
+h1 {
+  	color: pink;
+  	font-size: 40px;
+  	font-family: ‘georgia’, serif;
+
+}
+#shiny {
+	color: gray;
+}
+h3 {
+	color: green;
+	font-size: 24px;
+	font-family: ‘georgia’, serif;
+
+}
+img{
+	width: 30%;
+	margin-left:10%;
+	border: 2px;
+	border-style: dotted;
+	border-color: yellow;
+}
